@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @BalisticSpider
-- 👀 I’m interested in coding and machine learning
-- 🌱 I’m currently learning python from the course of jose portilla
+- 👀 I’m interested in coding and programming
+- 🌱 I’m currently learning python
 - 📫 How to reach me: you can message me on my email;m.shayanriaz@gmail.com 
